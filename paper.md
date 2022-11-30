@@ -27,12 +27,12 @@ authors:
     affiliation: 1
   - name: K. Sargsyan
     affiliation: 1
+  - name: D. Sema
+    affiliation: 4
   - name: E. Sikorski
     affiliation: 1
   - name: L. Williams
     affiliation: 1
-  - name: D. Sema
-    affiliation: 4
   - name: A.P. Thompson
     affiliation: 1
   - name: M.A. Wood
